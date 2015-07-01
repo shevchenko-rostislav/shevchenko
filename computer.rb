@@ -25,3 +25,4 @@ end
 p @items
 @items.delete_items
 p @items
+p @items 
